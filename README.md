@@ -1,2 +1,2 @@
 # schoolsistem
-un sistema de administracion (no completado)
+un sistema de administracion (en construccion)
